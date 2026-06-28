@@ -1,0 +1,22 @@
+{
+  "name": "jogo-da-forca-bsi",
+  "version": "1.0.0",
+  "description": "Jogo da Forca em JavaScript puro, executado via terminal com Node.js — Atividade #08 (WEB I) do curso de Sistemas de Informação.",
+  "main": "forca.js",
+  "scripts": {
+    "start": "node forca.js"
+  },
+  "keywords": [
+    "jogo-da-forca",
+    "hangman",
+    "javascript",
+    "nodejs",
+    "terminal",
+    "cli"
+  ],
+  "author": "Iarley Oliveira de Jesus",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

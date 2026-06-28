@@ -1,0 +1,69 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Relatórios de diagnóstico
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Dados de runtime
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Cobertura de testes
+lib-cov
+coverage
+*.lcov
+.nyc_output
+
+# Dependências
+node_modules/
+jspm_packages/
+web_modules/
+bower_components
+
+# Cache de ferramentas
+.npm
+.eslintcache
+.stylelintcache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+.cache
+.parcel-cache
+
+# Histórico do REPL do Node
+.node_repl_history
+
+# Pacote gerado por "npm pack"
+*.tgz
+
+# Integridade do Yarn
+.yarn-integrity
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Variáveis de ambiente
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Sistemas operacionais e editores
+.DS_Store
+.vscode/
+.idea/
